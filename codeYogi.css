@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.heading h3{
+    text-transform: capitalize;
+    font-size: 40px;
+    margin-top: 50px;
+border: dotted;
+    padding: 15px 10px;
+    width: 300px;
+    text-align: center;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
+
+
+.borderSection{
+    border: 10px solid #000;
+    background-color: green;
+height: 60vh;
+
+}
